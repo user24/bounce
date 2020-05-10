@@ -1,3 +1,9 @@
+# Bounce
+
+Check out the [project demo](https://user24.github.io/bounce).
+
+## Create React App stuff
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
